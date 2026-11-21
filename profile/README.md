@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://apollyoncorp.com/assets/logo-512.png?v=1" alt="Apollyon Corporation" width="160">
+  <img src="https://apollyoncorp.com/assets/logo-512.png?v=2" alt="Apollyon Corporation" width="160">
 </p>
 
 <h1 align="center">Apollyon Corporation</h1>
