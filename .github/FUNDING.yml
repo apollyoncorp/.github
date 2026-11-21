@@ -1,0 +1,3 @@
+# Sponsor button for every public apollyoncorp repository that has no FUNDING.yml of its own.
+# Apollyon takes donations only, through its Stripe link (any amount, card or Pix).
+custom: ["https://donate.stripe.com/dRmfZhdkv9CD1O30Tm2wU00"]
